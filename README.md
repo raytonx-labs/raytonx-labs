@@ -24,7 +24,7 @@ Next.js · Supabase · React · TypeScript · Node.js · Hono · NestJS · Postg
 
 我们把真实项目中的开发过程、技术决策和工程实践整理成内容：
 
-https://www.raytonx.com/courses
+https://www.raytonx.com/solutions
 
 ---
 
